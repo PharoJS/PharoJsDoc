@@ -1,0 +1,2 @@
+# PharoJsDoc
+Documentation for PharoJS
