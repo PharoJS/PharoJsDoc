@@ -8,7 +8,7 @@ Javascript code is provided as a string inside the pragma. This string is export
 
 ```smalltalk
 zeroArgMethod
-	<javascript: 'window alert: "Welcome to PharoJS"'>
+	<javascript: 'window.alert: "Welcome to PharoJS"'>
 	
 	UIManager default alert: 'Welcome to PharoJS'
 ```
