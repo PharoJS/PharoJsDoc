@@ -1,2 +1,2 @@
 # PharoJsDoc
-Documentation for PharoJS
+Documentation for [PharoJS](github.com/PharoJS/PharoJS)
