@@ -1,4 +1,4 @@
-# Embedding JS Code
+# How to embed JS Code?
 
 PharoJS allows defining methods with code written in JavaScript. This is possible thanks to the `javascript` pragma.  
 

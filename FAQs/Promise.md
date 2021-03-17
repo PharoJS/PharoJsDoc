@@ -1,4 +1,4 @@
-# Promise
+# How to use Promises?
 
 Regarding promises, you can use existing JS that produces promises  
 

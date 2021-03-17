@@ -1,4 +1,4 @@
-# JS Global Functions
+# How to call JS Global Functions?
 
 JS global functions are functions attached to global `window`. An example is `alert()`. 
 
