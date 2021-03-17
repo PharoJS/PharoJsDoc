@@ -39,3 +39,5 @@
 ### openable from debugger
 
 ## Documentation plan
+
+## Continuous integration server
