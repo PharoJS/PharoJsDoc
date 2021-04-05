@@ -5,6 +5,7 @@ Regarding promises, you can use existing JS that produces promises
 ```
 myPromise := ...  
 myPromise then: [: result | ...]
+myPromise catch: [: reason | ...]
 ```
 
 The only limitation that we didn't address yet is to create `async` functions.

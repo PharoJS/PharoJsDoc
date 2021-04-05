@@ -7,3 +7,4 @@
 - [How to embed JS Code?](Embedding%20JS%20Code.md)
 - [What is class-side `appClasses` useful for?](appClasses%20Method.md)
 - [How to use Promises?](Promise.md)
+- [How to Throw and Catch Exceptions](Exceptions.md)
