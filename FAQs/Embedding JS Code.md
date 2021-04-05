@@ -4,6 +4,8 @@ PharoJS allows defining methods with code written in JavaScript. This is possibl
 
 Javascript code is provided as a string inside the pragma. This string is exported as is, instead of transpiling the method's body, written in Pharo.
 
+**This should be used as a last resort.** Having your code in Smalltalk is generally more flexible, and will better leverage future PharoJS capabilities.
+
 ## Zero Arg Method
 
 ```smalltalk
