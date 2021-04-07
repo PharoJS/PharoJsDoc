@@ -1,5 +1,11 @@
 # Open Projects
 
+## Continuous integration server
+
+## Documentation
+- Plan based on documentation quadrants
+- Move old doc from web site and merge it with new contents
+
 ## Bridge
 ### More functional bridge
 - Support JS asynchronous messaging
@@ -45,7 +51,3 @@ Better playground
 ## Debug remote JS code as Smalltalk code
 - allow opening from debugger, a PharoJS playground attached the debugged context
 
-## Documentation
-- Plan based on documentation quadrants
-
-## Continuous integration server
