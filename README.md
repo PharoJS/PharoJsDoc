@@ -1,7 +1,9 @@
 # PharoJsDoc
-Documentation for [PharoJS](https://github.com/PharoJS/PharoJS)
+Documentation for the [PharoJS](https://github.com/PharoJS/PharoJS) project.
 
-See [FAQs](FAQs/FAQs.md)
+- [Latest FAQs](FAQs/FAQs.md)
+- [Old FAQs List](https://pharojs.org/faq.html) will be eventually moved here
+- [Other doc from the PharoJS web site](https://pharojs.org/doc.html)
 
 ## Contributing
 
