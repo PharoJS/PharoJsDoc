@@ -23,3 +23,4 @@ Might be worth thinking of porting parts of these
 - [Code paradise](https://github.com/ErikOnBike/CodeParadise)
 - [Silk](https://smalltalkrenaissance.wordpress.com/2015/06/29/silk-is-just-too-flexible/)
 - [Seaside](https://github.com/SeasideSt/Seaside)
+- [Eleven](https://github.com/JanBliznicenko/eleven). See example in the [announcement on Pharo Weekly](https://pharoweekly.wordpress.com/2020/10/11/ann-eleven/)
