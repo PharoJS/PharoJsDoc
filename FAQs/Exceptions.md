@@ -3,7 +3,7 @@
 ## Signaling an Exception (`throw`)
 In the following example, we first create an exception object. The argument of the `new:` is a string message attached to the exception. Alternatively we could use a plain `new` message to create an exception with no message.
 
-Last, we use `signal` message to throw the exception. JavaScript operator `throw` is mapped to message `signal` in PharoJS. 
+Lastly, we use `signal` message to throw the exception. JavaScript operator `throw` is mapped to message `signal` in PharoJS. 
 
 ```Smalltalk
 |myError|
@@ -12,7 +12,7 @@ myError signal
 ```
 
 ## Catching an Exception (`try/catch`) 
-We map the `on:do:` Pharo message to JS `try/catch`. Here is an example. Of course, the 
+We map the `on:do:` Pharo message to JS `try/catch`. Here is an example. Of course, Javascript exceptions are not resumable, so all you can do is catch them.
 
 ```Smalltalk
 ["some code possibly signaling an exception"] on: Error do: [: error |  

@@ -8,7 +8,7 @@ PjWebAppTestCase subclass: #MyTest
 	package: 'MyPackage-Tests'	
 ```
 
-Add this newly created test class the following **class side** method:
+Add to this newly created test class the following **class side** method pointing to your app class:
 ```smalltalk
 appClass
 	^MyPharoJsApp
@@ -18,7 +18,7 @@ The inherited `setUp` method ensures that an instance of the `MyPharoJsApp` is c
 
 By default, the app instance is created on the Pharo side, and talks remotely to JS objects (e.g. `window` and `document`).
 
-You can however for PharoJS to run your code on JS side. Simply make your test class use trait `PjTAppRunsInJS`. So, your test class definition would become:
+You can however choose for PharoJS to run your code on the JS side. Simply make your test class use trait `PjTAppRunsInJS`. So, your test class definition would become:
 
 ```Smalltalk
 PjWebAppTestCase subclass: #MyTest  
