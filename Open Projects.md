@@ -3,20 +3,27 @@
 ## Continuous integration server
 
 ## Documentation
-- Plan based on documentation quadrants
+- Plan based on [documentation quadrants](https://documentation.divio.com/)
 - Move old doc from web site and merge it with new contents
 
-## [[Bridge]]
+## [Bridge](Bridge.md)
 
-## [[Transpiler]]
+## [Transpiler](Transpiler.md)
 
-## [[Exporter]]
+## [Exporter](Exporter.md)
 
-## [[Playground]]
-
+## [Playground](Playground.md)
 
 ## Debug remote JS code as Smalltalk code
 - allow opening from debugger, a PharoJS playground attached the debugged context
+
+## Middleware
+See [MyPrecious](https://github.com/bouraqadi/MyPrecious)
+
+## Async/Await support
+
+## ECMAScript 6 support
+
 
 ## Related work
 Might be worth thinking of porting parts of these
