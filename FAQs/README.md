@@ -7,6 +7,7 @@
 - [How do I embed JS code?](./embeddingJsCode.md)
 - [What is class-side `appClasses` useful for?](./appClassesMethod.md)
 - [Can I inspect JS objects from Pharo?](./inspectJsObjects.md)
+- [Can I have a Playground with JS objects?](./pharoJsPlayground.md)
 - [What is the `PjJavascriptGlobals` hierarchy?](./JsGlobals.md)
 - [How do I perform JSON serialization?](./JsonSerialization.md)
 - [How do I use promises?](./Promise.md)
