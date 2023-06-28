@@ -25,10 +25,7 @@ See [MyPrecious](https://github.com/bouraqadi/MyPrecious)
 
 ## Async/Await support
 
-## ECMAScript 6 support
-
 ## Latest Pharo support
-- Pharo10: Almost Done
 - Pharo11: Related to [continuous integration](#continuous-integration-server)
 
 ## Related work
