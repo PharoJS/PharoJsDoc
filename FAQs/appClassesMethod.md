@@ -1,6 +1,6 @@
 # What is class-side `appClasses` useful for?
 
-You might see such methods on the class-side of app classes.
+You might see methods like the following on the class-side of app classes.
 ```smalltalk
 appClasses  
 	<pharoJsSkip>  
