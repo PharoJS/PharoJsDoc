@@ -7,6 +7,7 @@ PharoJS is released under the [MIT open source License](https://en.wikipedia.org
 
 ## More Information
 - [Latest FAQs](FAQs/README.md)
+- [How-To Guides](./HowToGuides/README.md)
 - [Old FAQs List](https://pharojs.org/faq.html) will be eventually moved here
 - [Other doc from the PharoJS web site](https://pharojs.org/doc.html)
 - [OpenProjects](OpenProjects/README.md)
